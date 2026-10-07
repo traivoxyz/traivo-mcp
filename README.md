@@ -152,6 +152,17 @@ pnpm build
 TRAIVO_LIVE=1 pnpm test:live   # optional: read-only smoke test against the real API
 ```
 
+## Links
+
+Traivo $TRVO — The AI trading copilot for Ethereum Chain: it reads your wallet, watches the market, and prepares every trade for you to approve.
+
+- Telegram: https://t.me/traivo
+- X: https://x.com/traivoxyz
+- Website: https://traivo.xyz
+- Docs: https://docs.traivo.xyz
+- App: https://dapp.traivo.xyz
+- GitHub: https://github.com/traivoxyz
+
 ## License
 
 MIT © Traivo

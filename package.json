@@ -5,7 +5,12 @@
   "license": "MIT",
   "author": "Traivo",
   "type": "module",
-  "homepage": "https://dapp.traivo.xyz",
+  "homepage": "https://traivo.xyz",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/traivoxyz/traivo-mcp.git"
+  },
+  "bugs": "https://github.com/traivoxyz/traivo-mcp/issues",
   "keywords": [
     "mcp",
     "model-context-protocol",
