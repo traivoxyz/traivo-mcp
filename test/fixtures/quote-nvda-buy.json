@@ -1,0 +1,32 @@
+{
+  "symbol": "NVDA",
+  "side": "buy",
+  "amountIn": 100,
+  "amountOut": 0.4176663496745912,
+  "price": 239.4255608044823,
+  "smallPrice": 239.42232636476098,
+  "impactBps": 0.13509348816498346,
+  "reference": 239.24,
+  "premiumBps": 7.756261682088095,
+  "referenceAge": 55540,
+  "depth": [
+    {
+      "usd": 100,
+      "impactBps": 0.13509348816498346
+    },
+    {
+      "usd": 1000,
+      "impactBps": 1.4860283698125976
+    },
+    {
+      "usd": 10000,
+      "impactBps": 14.99537718629984
+    },
+    {
+      "usd": 50000,
+      "impactBps": 72.83949884081986
+    }
+  ],
+  "fee": 3000,
+  "block": "26140195"
+}

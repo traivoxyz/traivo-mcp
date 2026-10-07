@@ -1,0 +1,36 @@
+{
+  "address": "0x000000000000000000000000000000000000dEaD",
+  "accountValue": 5230.115,
+  "withdrawable": 3120.44,
+  "marginUsed": 2109.675,
+  "notional": 10548.375,
+  "positions": [
+    {
+      "coin": "BTC",
+      "side": "long",
+      "size": 0.1,
+      "entry": 82000.5,
+      "mark": 84093.5,
+      "value": 8409.35,
+      "pnl": 209.3,
+      "roe": 0.051,
+      "liquidation": 61234.12345,
+      "liqDistancePct": 27.18291,
+      "leverage": "5x cross"
+    },
+    {
+      "coin": "SOL",
+      "side": "short",
+      "size": -18.1,
+      "entry": 120.2,
+      "mark": 118.145,
+      "value": 2139.0245,
+      "pnl": 37.1955,
+      "roe": 0.0855,
+      "liquidation": 190.4,
+      "liqDistancePct": 61.157,
+      "leverage": "3x isolated"
+    }
+  ],
+  "spot": [{ "coin": "USDC", "total": 100.25 }]
+}

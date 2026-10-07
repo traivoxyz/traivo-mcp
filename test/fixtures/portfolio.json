@@ -1,0 +1,35 @@
+{
+  "address": "0x000000000000000000000000000000000000dEaD",
+  "block": "26140195",
+  "holdings": [
+    {
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "balance": 1250.5,
+      "price": 1,
+      "priceSource": "peg",
+      "value": 1250.5
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ether",
+      "address": null,
+      "balance": 0.0421337,
+      "price": 2575.603,
+      "priceSource": "dex",
+      "value": 108.51968412110001
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "address": "0x2D1F7226Bd1F780AF6B9A49DCC0aE00E8Df4bDEE",
+      "balance": 2.5,
+      "price": 238.71848410084772,
+      "priceSource": "dex",
+      "value": 596.7962102521193
+    }
+  ],
+  "total": 1955.8158943732194,
+  "unpriced": ["MYSTERY"]
+}

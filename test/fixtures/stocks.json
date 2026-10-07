@@ -1,0 +1,97 @@
+{
+  "block": "26140195",
+  "rows": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "address": "0x2D1F7226Bd1F780AF6B9A49DCC0aE00E8Df4bDEE",
+      "reference": 239.24,
+      "referenceAge": 55540,
+      "bid": 237.979063,
+      "ask": 239.45790520169544,
+      "mid": 238.71848410084772,
+      "spreadBps": 61.949212155297495,
+      "premiumBps": -21.798858851040936,
+      "venue": "Uniswap V3 · 0.3%"
+    },
+    {
+      "symbol": "SLV",
+      "name": "iShares Silver Trust",
+      "address": "0xF3e4872e6a4cF365888D93b6146a2bAA7348F1A4",
+      "reference": 55.45,
+      "referenceAge": 55540,
+      "bid": 54.213032,
+      "ask": 55.32014054025213,
+      "mid": 54.76658627012607,
+      "spreadBps": 202.15036496734095,
+      "premiumBps": -123.2486438005287,
+      "venue": "Uniswap V3 · 1%"
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "address": "0xf6b1117ec07684D3958caD8BEb1b302bfD21103f",
+      "reference": 380.68,
+      "referenceAge": 55539,
+      "bid": 372.778321,
+      "ask": 380.9453202391833,
+      "mid": 376.86182061959164,
+      "spreadBps": 216.71070913355072,
+      "premiumBps": -100.29892246528283,
+      "venue": "Uniswap V3 · 1%"
+    },
+    {
+      "symbol": "SPY",
+      "name": "SPDR S&P 500 ETF",
+      "address": "0xFeDC5f4a6c38211c1338aa411018DFAf26612c08",
+      "reference": 779.09,
+      "referenceAge": 55540,
+      "bid": 782.085556,
+      "ask": 788.0334105930691,
+      "mid": 785.0594832965346,
+      "spreadBps": 75.76310737746317,
+      "premiumBps": 76.62122856838761,
+      "venue": "Uniswap V3 · 0.3%"
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet",
+      "address": "0xbA47214eDd2bb43099611b208f75E4b42FDcfEDc",
+      "reference": 347.68,
+      "referenceAge": 55539,
+      "bid": 344.951609,
+      "ask": 352.84170662855377,
+      "mid": 348.89665781427686,
+      "spreadBps": 226.14425939138025,
+      "premiumBps": 34.99360947643915,
+      "venue": "Uniswap V3 · 1%"
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple",
+      "address": "0x14c3abF95Cb9C93a8b82C1CdCB76D72Cb87b2d4c",
+      "reference": 333.63,
+      "referenceAge": 55539,
+      "bid": 330.110475,
+      "ask": 337.5549694610398,
+      "mid": 333.8327222305199,
+      "spreadBps": 223.00074154801268,
+      "premiumBps": 6.076259045046939,
+      "venue": "Uniswap V3 · 1%"
+    },
+    {
+      "symbol": "SPCX",
+      "name": "SpaceX",
+      "address": "0xc9eef266834730340A55B6CC24621B31BAF55581",
+      "reference": null,
+      "referenceAge": null,
+      "bid": 167.774573,
+      "ask": 171.2484725608917,
+      "mid": 169.51152278044586,
+      "spreadBps": 204.9358948530692,
+      "premiumBps": null,
+      "venue": "Uniswap V3 · 1%"
+    }
+  ],
+  "eth": 2575.603
+}

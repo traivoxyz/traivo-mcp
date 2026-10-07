@@ -1,0 +1,49 @@
+{
+  "rows": [
+    {
+      "symbol": "ETH",
+      "name": "Ether",
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "via": "USDC",
+      "fee": 500,
+      "image": null,
+      "price": 2578.0025982808097
+    },
+    {
+      "symbol": "WBTC",
+      "name": "Wrapped BTC",
+      "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+      "via": "WETH",
+      "fee": 3000,
+      "image": "https://coin-images.coingecko.com/coins/images/7598/large/WBTCLOGO.png?1764496367",
+      "price": 83752.79524954145
+    },
+    {
+      "symbol": "AAVE",
+      "name": "Aave Token",
+      "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+      "via": "WETH",
+      "fee": 3000,
+      "image": "https://coin-images.coingecko.com/coins/images/12645/large/aave-token-round.png?1720472354",
+      "price": 172.8673480161091
+    },
+    {
+      "symbol": "PRIME",
+      "name": "Hastra PRIME",
+      "address": "0x19ebb35279A16207Ec4ba82799CC64715065F7F6",
+      "via": "USDC",
+      "fee": 100,
+      "image": "https://coin-images.coingecko.com/coins/images/71002/large/Frame_427319702.png?1765093510",
+      "price": 1.0632174192438524
+    },
+    {
+      "symbol": "LINK",
+      "name": "ChainLink Token",
+      "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+      "via": "WETH",
+      "fee": 3000,
+      "image": "https://coin-images.coingecko.com/coins/images/877/large/Chainlink_Logo_500.png?1760023405",
+      "price": null
+    }
+  ]
+}

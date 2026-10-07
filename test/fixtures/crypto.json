@@ -1,0 +1,58 @@
+{
+  "rows": [
+    {
+      "symbol": "BTC",
+      "mid": 84093.5,
+      "change24h": -1.7346747995980238,
+      "volume24h": 2446034731.4009666,
+      "fundingApr": 10.950000000000001,
+      "openInterestUsd": 3412078433.93682,
+      "maxLeverage": 40
+    },
+    {
+      "symbol": "ETH",
+      "mid": 2609.05,
+      "change24h": -3.457909343200738,
+      "volume24h": 990088701.9910495,
+      "fundingApr": 10.950000000000001,
+      "openInterestUsd": 3054613700.7996807,
+      "maxLeverage": 25
+    },
+    {
+      "symbol": "HYPE",
+      "mid": 90.3475,
+      "change24h": -3.3065059879919145,
+      "volume24h": 483637229.80370986,
+      "fundingApr": 10.950000000000001,
+      "openInterestUsd": 1813093357.1505487,
+      "maxLeverage": 10
+    },
+    {
+      "symbol": "ZEC",
+      "mid": 1317.15,
+      "change24h": -1.6244678467398632,
+      "volume24h": 311239956.47200036,
+      "fundingApr": 10.950000000000001,
+      "openInterestUsd": 672927588.4050002,
+      "maxLeverage": 10
+    },
+    {
+      "symbol": "SOL",
+      "mid": 118.145,
+      "change24h": -1.7505197505197523,
+      "volume24h": 203958660.0017999,
+      "fundingApr": 1.4404944000000002,
+      "openInterestUsd": 662936792.9655999,
+      "maxLeverage": 20
+    },
+    {
+      "symbol": "NEAR",
+      "mid": 4.92565,
+      "change24h": -5.997251855951435,
+      "volume24h": 137716115.38201988,
+      "fundingApr": 10.950000000000001,
+      "openInterestUsd": 344577788.2402599,
+      "maxLeverage": 10
+    }
+  ]
+}
