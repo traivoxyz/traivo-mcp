@@ -1,0 +1,57 @@
+{
+  "name": "traivo-mcp",
+  "version": "0.1.0",
+  "description": "Model Context Protocol server for Traivo: read-only market, quote, portfolio and scorecard tools for tokenized stocks and crypto on Ethereum, plus trade deep links you review and sign yourself.",
+  "license": "MIT",
+  "author": "Traivo",
+  "type": "module",
+  "homepage": "https://dapp.traivo.xyz",
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "traivo",
+    "ethereum",
+    "uniswap",
+    "tokenized-stocks",
+    "ai-agents"
+  ],
+  "bin": {
+    "traivo-mcp": "./dist/cli.js"
+  },
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "tsup",
+    "typecheck": "tsc --noEmit",
+    "lint": "prettier --check .",
+    "format": "prettier --write .",
+    "test": "vitest run",
+    "test:live": "TRAIVO_LIVE=1 vitest run test/live.test.ts",
+    "start": "node dist/cli.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.1",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.5",
+    "prettier": "^3.9.9",
+    "tsup": "^8.5.1",
+    "typescript": "^5.9.3",
+    "vitest": "^5.0.3"
+  }
+}
